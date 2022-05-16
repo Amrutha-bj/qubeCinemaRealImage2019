@@ -1,0 +1,23 @@
+{"Partners" : 
+    [{"Theatre": "T1","SizeSlab": "0-100","Minimumcost":1500,"CostPerGB":20,"PartnerID": "P1"},
+    {"Theatre": "T1","SizeSlab": "100-200","Minimumcost":2000,"CostPerGB":13,"PartnerID": "P1"},
+    {"Theatre": "T1","SizeSlab": "200-300","Minimumcost":2500,"CostPerGB":12,"PartnerID": "P1"},
+    {"Theatre": "T1","SizeSlab": "300-400","Minimumcost":3000,"CostPerGB":10,"PartnerID": "P1"},
+    {"Theatre": "T2","SizeSlab": "0-100","Minimumcost":1500,"CostPerGB":20,"PartnerID": "P1"},
+    {"Theatre": "T2","SizeSlab": "100-200","Minimumcost":2000,"CostPerGB":15,"PartnerID": "P1"},
+    {"Theatre": "T2","SizeSlab": "200-300","Minimumcost":2500,"CostPerGB":12,"PartnerID": "P1"},
+    {"Theatre": "T2","SizeSlab": "300-400","Minimumcost":3000,"CostPerGB":10,"PartnerID": "P1"},
+    {"Theatre": "T1","SizeSlab": "0-200","Minimumcost":1000,"CostPerGB":20,"PartnerID": "P2"},
+    {"Theatre": "T1","SizeSlab": "200-400","Minimumcost":2500,"CostPerGB":15,"PartnerID": "P2"},
+    {"Theatre": "T2","SizeSlab": "0-200","Minimumcost":2500,"CostPerGB":20,"PartnerID": "P2"},
+    {"Theatre": "T2","SizeSlab": "200-400","Minimumcost":3500,"CostPerGB":10,"PartnerID": "P2"},
+    {"Theatre": "T1","SizeSlab": "100-200","Minimumcost":800,"CostPerGB":25,"PartnerID": "P3"},
+    {"Theatre": "T1","SizeSlab": "200-600","Minimumcost":1200,"CostPerGB":30,"PartnerID": "P3"},
+    {"Theatre": "T2","SizeSlab": "100-200","Minimumcost":900,"CostPerGB":15,"PartnerID": "P3"},
+    {"Theatre": "T2","SizeSlab": "200-400","Minimumcost":1000,"CostPerGB":12,"PartnerID": "P3"}],
+"capacity":{
+    "P1": "350",
+    "P2": "500",
+    "P3": "1500"}
+}
+    
